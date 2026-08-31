@@ -1,10 +1,7 @@
-Here is the complete, all-in-one `README.md` file. It contains the entire project theory, architecture, hardware setup, full ESP32 C++ code, and the complete HTML dashboard code in one place.
-
-You can copy and paste this directly into your GitHub repository.
 
 ---
 
-```markdown
+
 # ⚡ ESP32 Smart Load-Shedding Monitor
 
 An ultra-efficient, event-driven IoT power grid monitor built with an ESP32 and Firebase Realtime Database. 
@@ -50,7 +47,7 @@ The ESP32 is powered directly from a standard 5V wall adapter (no battery). The 
      }
    }
 
-```
+
 
 4. Note your Database URL (e.g., `https://<YOUR-PROJECT-ID>.firebasedatabase.app`).
 
